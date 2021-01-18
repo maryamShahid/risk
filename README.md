@@ -1,4 +1,4 @@
-# 1G-Risk-game
+# Risk Game
 Risk is a challenging board game that is based on strategy and an attempt to rule the world. It is group 1G's project for Bilkent's CS319 course.
 
 ## Description
@@ -18,4 +18,3 @@ Features that we are planning to implement include:
 - The ability to save and load games
 - Custom maps
 - Blitz dice
-- And more to be thought of
